@@ -1,5 +1,3 @@
-ecutable File  19 lines (19 sloc)  555 Bytes
-
 #include <stdio.h>
 /**
  * main - A program that prints the size of various computer types
